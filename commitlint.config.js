@@ -1,4 +1,5 @@
 module.exports = {
+  parserPreset: 'conventional-changelog-conventionalcommits',
   rules: {
     'type-enum': [
       2,
