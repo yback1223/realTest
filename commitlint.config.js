@@ -26,5 +26,6 @@ module.exports = {
     ],
     'header-max-length': [2, 'always', 50],
     'body-max-length': [0, 'never'],
+    'references-empty': [2, 'never'],
   },
 };
